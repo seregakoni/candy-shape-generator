@@ -37,4 +37,3 @@ def draw_candy(shape="circle"):
 
 # Example usage
 draw_candy("heart")
-yuo
